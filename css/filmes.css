@@ -15,24 +15,24 @@ main .container-filmes {
     margin-top: 5px;
 }
 
-main .container-filmes .imagem-filme {
+main .container-filmes #imagem-filme {
     margin-left: 10px;
     margin-right: 10px;
 }
 
-main .container-filmes .imagem-filme img {
+main .container-filmes #imagem-filme img {
     border-radius: 10px;
     height: 380px;
 }
 
-main .container-filmes .descricao-filme {
+main .container-filmes #descricao-filme {
     height: 100%;
     padding-top: 30px;
     padding-left: 10px;
     padding-right: 5px;
 }
 
-main .container-filmes .trailler {
+main .container-filmes #trailler {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -40,22 +40,22 @@ main .container-filmes .trailler {
     margin-left: 10px;
     margin-right: 10px;
 }
-main .container-filmes .descricao-filme h1 {
+main .container-filmes #descricao-filme h1 {
     margin-bottom: 10px;
     font-family: 'Source Code Pro Black', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-main .container-filmes .descricao-filme h2 {
+main .container-filmes #descricao-filme h2 {
     color: white;
     margin-bottom: 20px;
 }
 
-main .container-filmes .descricao-filme h4 {
+main .container-filmes #descricao-filme h4 {
     margin-bottom: 30px;
     font-family: 'Source Code Pro', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-main .container-filmes .descricao-filme p {
+main .container-filmes #descricao-filme p {
     text-align: justify;
     padding-right: 30px;
     font-size: 16px;
